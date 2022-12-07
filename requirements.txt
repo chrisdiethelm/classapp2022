@@ -2,4 +2,3 @@ seaborn
 matplotlib
 pandas
 sklearn
-pickle
